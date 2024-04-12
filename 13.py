@@ -1,0 +1,1 @@
+# program to check a palindrom

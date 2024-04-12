@@ -1,0 +1,1 @@
+# program to check string is palindrom or not
