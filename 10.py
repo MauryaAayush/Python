@@ -11,15 +11,15 @@ if num > 1 :
             break
         else :
             print("This is a not prime")
-    
+            break
 else : 
-    
-    print("This is not prime")
+     print("Enter more than 1 number")
 
 
-    
-    
 
+    
+  
+  
   
   
   # if num % 2 != 0 & num % 3 != 0 & num % 5 != 0 & num % 7 != 0 :
