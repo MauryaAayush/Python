@@ -5,7 +5,6 @@ for i in range (num):
     element  = int(input(f"Enter the value { i + 1} : "))
     arrey.append(element)
 
-max_num = max(arrey)
+arrey.sort()
 
-print("Arrey : ", arrey)
-print("Largets element from thr arrey is : ",max_num)
+print("Sorted arrey in assending order  : ", arrey)
