@@ -9,5 +9,7 @@ def bubble_sort(arr):
 arr = list(map(int, input("Enter numbers to sort and also  use space for separation: ").split()))
 
 print("Original array:", arr)
+
 bubble_sort(arr)
+
 print("Sorted array:", arr)
