@@ -9,7 +9,7 @@ def calculate_average(arr):
         return average
 
 
-input_str = input("Enter space-separated numbers in the array: ")
+input_str = input("Enter space for separate numbers in the array: ")
 input_list = input_str.split()
 arr = list(map(float, input_list))
 
