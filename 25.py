@@ -6,6 +6,7 @@ def is_prime(num):
             return False
     return True
 
+
 def print_primes(start, end):
     print(f"Prime numbers between {start} and {end}:")
     for num in range(start, end + 1):
