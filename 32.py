@@ -13,4 +13,4 @@ def circle_area(radius):
 radius = float(input("Enter the radius of the circle: "))
 
 area = circle_area(radius)
-print(f"The area of the circle with radius {radius} is {area}.")
+print(f"The area of the circle with radius {radius} = {area}.")
